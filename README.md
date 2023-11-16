@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MikoMonb
 - 👀 I’m interested in Back-end Programming
 - 🌱 I’m currently learning PHP Native
-- 💞️ I’m looking to collaborate on myself (Because im a lonewolf)
+- 💞️ I’m looking to collaborate on myself (because im a lonewolf)
 - 📫 How to reach me ( https://www.linkedin.com/in/alief-try-helfian-221b0a28a/ )
 
 <!---
